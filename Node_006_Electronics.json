@@ -2427,7 +2427,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Superrare",
 			"SpawnChance": 0.5,
-			"CreditsPrice": 152400,
+			"CreditsPrice": 34500,
 			"ItemSound": "mod",
 			"Prefab": {
 				"path": "assets/content/items/barter/item_barter_electr_flashstorage/item_barter_electr_flashstorage.bundle",
