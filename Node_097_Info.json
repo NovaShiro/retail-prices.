@@ -1590,7 +1590,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Rare",
 			"SpawnChance": 7,
-			"CreditsPrice": 135000,
+			"CreditsPrice": 33751,
 			"ItemSound": "generic",
 			"Prefab": {
 				"path": "assets/content/items/barter/ssd/item_barter_electr_ssd.bundle",
@@ -1653,7 +1653,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Superrare",
 			"SpawnChance": 6,
-			"CreditsPrice": 80152,
+			"CreditsPrice": 35000,
 			"ItemSound": "generic",
 			"Prefab": {
 				"path": "assets/content/items/infosubject/item_flash_card_ironkey.bundle",
@@ -1716,7 +1716,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Superrare",
 			"SpawnChance": 4,
-			"CreditsPrice": 69000,
+			"CreditsPrice": 331606,
 			"ItemSound": "item_book",
 			"Prefab": {
 				"path": "assets/content/items/infosubject/item_info_intelligence/item_info_intelligence.bundle",
@@ -1849,7 +1849,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Superrare",
 			"SpawnChance": 6,
-			"CreditsPrice": 58000,
+			"CreditsPrice": 24900,
 			"ItemSound": "item_book",
 			"Prefab": {
 				"path": "assets/content/items/infosubject/item_thick_diary.bundle",
@@ -1912,7 +1912,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Superrare",
 			"SpawnChance": 5,
-			"CreditsPrice": 71000,
+			"CreditsPrice": 30510,
 			"ItemSound": "item_paper",
 			"Prefab": {
 				"path": "assets/content/items/infosubject/item_thin_diary.bundle",
